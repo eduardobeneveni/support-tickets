@@ -1,0 +1,104 @@
+{
+    "tickets": [
+        {
+            "id": "123",
+            "equipment": "mouse",
+            "description": "scroll",
+            "user_name": "Eduardo Augusto",
+            "status": "closed",
+            "created_at": "2025-08-28T19:39:05.168Z",
+            "updated_at": "2025-08-29T13:45:52.255Z",
+            "solution": "equipamento trocado"
+        },
+        {
+            "id": "f2f3f07b-3b60-437c-b3b3-b9739edb4565",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-28T19:46:30.553Z",
+            "updated_at": "2025-08-28T19:46:30.553Z"
+        },
+        {
+            "id": "d53666fc-90c6-4fe5-b3a1-d86db42f753c",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "closed",
+            "created_at": "2025-08-29T03:05:41.734Z",
+            "updated_at": "2025-08-29T03:05:41.734Z"
+        },
+        {
+            "id": "418f7eae-7340-4c1f-be90-9f8cf63c4c73",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:06:22.122Z",
+            "updated_at": "2025-08-29T03:06:22.122Z"
+        },
+        {
+            "id": "217bef5b-3a7e-472b-aecf-71eb8f25eace",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:10:02.358Z",
+            "updated_at": "2025-08-29T03:10:02.358Z"
+        },
+        {
+            "id": "c03101a9-8ff9-4f85-b37e-762a360a72d5",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:10:13.615Z",
+            "updated_at": "2025-08-29T03:10:13.615Z"
+        },
+        {
+            "id": "f12ee938-948c-4ec4-8ea5-60aeba3d3c64",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:10:58.476Z",
+            "updated_at": "2025-08-29T03:10:58.476Z"
+        },
+        {
+            "id": "8658a998-77c3-42cb-bf51-d1a4295c657d",
+            "equipment": "Notebook",
+            "description": "Sem video",
+            "user_name": "Noah Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:20:26.713Z",
+            "updated_at": "2025-08-29T03:20:26.713Z"
+        },
+        {
+            "id": "a706f2eb-9923-4403-a4c4-3c65177d6e8c",
+            "equipment": "xbox",
+            "description": "Sem video",
+            "user_name": "valentina Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:38:34.119Z",
+            "updated_at": "2025-08-29T03:38:34.119Z"
+        },
+        {
+            "id": "b025b9ea-d883-4f8f-949b-eda8e5706070",
+            "equipment": "xbox",
+            "description": "Sem video",
+            "user_name": "valentina Rodrigues",
+            "status": "open",
+            "created_at": "2025-08-29T03:48:07.053Z",
+            "updated_at": "2025-08-29T03:48:07.053Z"
+        },
+        {
+            "id": "fab9989a-a68e-4ffe-ad93-2b2988e7e0d8",
+            "equipment": "iphone",
+            "description": "camera",
+            "user_name": "Lucas Alves",
+            "status": "open",
+            "created_at": "2025-08-29T13:05:41.006Z",
+            "updated_at": "2025-08-29T13:05:41.006Z"
+        }
+    ]
+}
